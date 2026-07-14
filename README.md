@@ -26,3 +26,6 @@ Analysis of credit risk patterns using a public lending dataset to identify defa
 - Subqueries
 - CTEs (Common Table Expressions)
 - Window Functions (RANK, PARTITION BY)
+
+## Visualizations
+Interactive dashboards: [Tableau Public](https://public.tableau.com/views/CreditRiskAnalysis_17840100165250/DefaultRatebyLoanGrade)
