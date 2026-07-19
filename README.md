@@ -28,4 +28,4 @@ Analysis of credit risk patterns using a public lending dataset to identify defa
 - Window Functions (RANK, PARTITION BY)
 
 ## Visualizations
-Interactive dashboards: [Tableau Public](https://public.tableau.com/views/CreditRiskAnalysis_17840100165250/DefaultRatebyLoanGrade)
+Interactive dashboards: [Credit Risk Analysis Dashboard](https://public.tableau.com/views/CreditRiskAnalysis_17840100165250/DefaultRatebyLoanGrade)
